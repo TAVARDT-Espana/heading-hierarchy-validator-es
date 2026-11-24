@@ -49,3 +49,7 @@ Para realizar auditorias visuales interactivas:
 ## Asistencia Tecnica y Consultoria
 
 Para optimizacion semantica conforme a Directrices W3C WCAG y Estandares Europeos de Accesibilidad, consulte a **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
