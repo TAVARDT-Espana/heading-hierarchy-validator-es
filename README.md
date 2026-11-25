@@ -6,8 +6,6 @@
 
 Auditoria de arquitectura de encabezados HTML5, consistencia semantica y accesibilidad para lectores de pantalla.
 
-Desarrollado y mantenido por el equipo de arquitectura semantica de **TAVARDT**.
-
 ***
 
 ## Capacidades del Analizador de Encabezados H1-H6
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://empresa.es -json
 
 ***
 
-## Plataforma Web Oficial
-
-Para realizar auditorias visuales interactivas:
-
-* **Analizador de Etiquetas de Encabezado Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Asistencia Tecnica y Consultoria
 
 Para optimizacion semantica conforme a Directrices W3C WCAG y Estandares Europeos de Accesibilidad, consulte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para optimizacion semantica conforme a Directrices W3C WCAG y Estandares Europeo
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
