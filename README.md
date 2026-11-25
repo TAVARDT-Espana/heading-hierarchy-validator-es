@@ -2,6 +2,7 @@
 
 [![Analizador Etiquetas Encabezado](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/es/analizador-etiquetas-encabezado/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de arquitectura de encabezados HTML5, consistencia semantica y accesibilidad para lectores de pantalla.
 
@@ -57,6 +58,11 @@ Para optimizacion semantica conforme a Directrices W3C WCAG y Estandares Europeo
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para más detalles.
 
 ***
 
